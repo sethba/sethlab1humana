@@ -42,8 +42,6 @@
     	echo '<a href="index.php">Go Back</a>';
     }
     else
-        echo "Login Success<br><br>";
-        echo "<br><b>DATA</b><br>";
         echo "Name: $lname, $fname $mname <br>";
         echo "Address: $address <br>";
         echo "Date of Birth: $dob<br>";
